@@ -1,0 +1,4 @@
+this is an awesome file i added directly from github
+And now I am about commit directly to github.com
+this is not something
+we are just trying
